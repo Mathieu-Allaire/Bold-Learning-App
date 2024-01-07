@@ -1,5 +1,5 @@
 # QuestionForger
-Made in the context of a hackothon, QuestionForger allows users to practice for difficult university-level courses by competing against the question's internal value and other users in the system. By offering a variety of question types, adaptive difficulty levels, and a user-friendly interface, QuestionForge aims to contribute to improved learning outcomes by engaging students in a more dynamic and interactive assessment experience. 
+Made in the context of a hackothon, QuestionForger allows users to practice for difficult university-level courses by competing against the question's internal value and other users in the system. By offering a variety of question types, adaptive difficulty levels, and a user-friendly interface, QuestionForge aims to contribute to improved learning outcomes by engaging students in a more dynamic and interactive assessment experience. For more information on our motivations behind the project, see our [devpost](https://devpost.com/software/questionforger).
 
 # Getting Started with Create React App
 
