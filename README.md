@@ -1,6 +1,9 @@
 # QuestionForger
 Made in the context of a hackothon, QuestionForger allows users to practice for difficult university-level courses by competing against the question's internal value and other users in the system. By offering a variety of question types, adaptive difficulty levels, and a user-friendly interface, QuestionForge aims to contribute to improved learning outcomes by engaging students in a more dynamic and interactive assessment experience. For more information on our motivations behind the project, see our [devpost](https://devpost.com/software/questionforger).
 
+# Languages and Tools Used
+This project was primarily made with React's JSX (syntax extension to JavaScript), and also used HTML, CSS, JavaScript and a database made with MSSQL.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
